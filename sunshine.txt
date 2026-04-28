@@ -1,0 +1,2 @@
+The sun is shining and git is working
+testing testing
